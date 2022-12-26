@@ -1,0 +1,53 @@
+body {
+    background-image: url("Metro.jpg");
+    background-size: cover;
+    font-family: Verdana, sans-serif, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: orange;
+    text-shadow: 0 0 2px black;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: purple;
+}
+
+#save-btn {
+    background: brown;
+}
+#count-el {
+    width: 400px;
+    background: yellowgreen;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+#save-el {
+    width: 400px;
+    background: indigo;
+    margin: 50px auto;
+    padding: 80px auto;
+    border-radius: 10px;
+    font-size: 25px;
+}
